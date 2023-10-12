@@ -73,3 +73,5 @@ Many open source publications were referenced for the development of these Subsc
 * [Advanced XML Filtering](https://blogs.technet.microsoft.com/askds/2011/09/26/advanced-xml-filtering-in-the-windows-event-viewer/)
 * [XPath Documentation](https://www.w3.org/TR/xpath/)
 * [Exploit Guard Event Views](https://docs.microsoft.com/en-us/windows/threat-protection/windows-defender-exploit-guard/event-views-exploit-guard)
+
+###### source: https://github.com/palantir/windows-event-forwarding
