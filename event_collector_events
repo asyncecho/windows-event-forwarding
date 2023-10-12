@@ -1,3 +1,4 @@
+<!-- Sourced from https://github.com/HASecuritySolutions/Logstash/tree/master -->
 <QueryList>
   <Query Id="0" Path="Security">
     <Select Path="Security">*</Select>
